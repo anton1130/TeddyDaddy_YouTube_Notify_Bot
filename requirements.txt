@@ -1,3 +1,4 @@
 requests
 google-api-python-client
 lxml
+vercel-python
